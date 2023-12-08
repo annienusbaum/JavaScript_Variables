@@ -16,11 +16,44 @@ let fullName = firstName + " " + lastName;
 fullName = `${firstName} ${lastName}`;
 console.log(fullName);
 
-// Exercise 3
 let city = "Tampa";
 let hobby = "reading";
 let myStory = `Hey! My name is ${fullName}. I live in ${city}. I love to ${hobby} and going to the gym and coding of course!`;
 
 console.log(myStory);
 
-/Users/annienusbaum/Desktop/repos/JavaScript_Variables/app.js
+//exercise3 -
+let language = "JavaScript";
+
+let createdYear = 1995;
+
+let isCaseSensitive = true;
+
+
+
+//exercise4
+
+let price = 19.99;
+
+let isOnSale = false;
+
+let salePercentage = 15;
+
+let stock = 0;
+
+let inStock = false;
+
+let selectedSize = "M";
+
+
+//exercise5
+
+let title = "Name of the Wind";
+
+let author = "Patrick Rothfuss";
+
+let pageCount = 722;
+
+let bookmark = 456;
+
+let hasRead = true;
